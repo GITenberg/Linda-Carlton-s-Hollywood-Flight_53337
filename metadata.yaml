@@ -1,0 +1,27 @@
+_repo: Linda-Carlton-s-Hollywood-Flight_53337
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lavell, Edith
+    gutenberg_agent_id: '26346'
+    url: http://www.gutenberg.org/2009/agents/26346
+description: ''
+gutenberg_issued: '2016-12-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53337'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women air pilots -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Mystery and detective stories'
+- !lcsh 'Adventure stories'
+- !lcsh 'Hollywood (Los Angeles, Calif.) -- Juvenile fiction'
+- !lcsh 'Motion picture industry -- Juvenile fiction'
+- !lcsh 'Young women -- Social life and customs -- Juvenile fiction'
+- GITenberg
+title: Linda Carlton's Hollywood Flight
+url: http://www.gutenberg.org/ebooks/53337
